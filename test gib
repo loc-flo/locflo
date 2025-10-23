@@ -1,7 +1,0 @@
-#incude<stdio.h>
-int main()
-{
-  int a;
-  scanf("%d",&a);
-  printf("\ntest gibhub lần %d",a);
-}
